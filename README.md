@@ -2,4 +2,3 @@ Git Lab 2, Лайкин Никита, Комплексная лаборатор�
 
 системы контроля версий Git.
 
-Incorrect project description
